@@ -55,12 +55,15 @@ Ele funciona tanto como uma ferramenta de **documentação linguística** quanto
 ├── app.py              ← Backend em Flask
 ├── README.md
 └── requirements.txt
+```
 
 ## 🚧 Planos Futuros
 
 - Adicionar **mapas interativos** com a distribuição das espécies  
 - Incluir **conhecimentos etnozoológicos** e narrativas orais  
 - Disponibilizar **materiais** para uso escolar
+
+
 
 ---
 

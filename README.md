@@ -71,7 +71,8 @@ Ele funciona tanto como uma ferramenta de **documentação linguística** quanto
 
 Se você utilizar ou referenciar este projeto em pesquisas ou publicações, cite:
 
-**Fabrício Ferraz Gerardi (2025). Boe eno moto: Banco de Dados da Fauna Bororo.**  
+[![DOI](https://zenodo.org/badge/992064867.svg)](https://doi.org/10.5281/zenodo.15537609)
+  
 Disponível em: [https://boeenomoto.onrender.com/fauna](https://boeenomoto.onrender.com/fauna)
 
 ---

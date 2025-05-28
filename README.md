@@ -12,7 +12,7 @@ Este banco de dados online oferece:
 
 - **Nomes de animais em Bororo**
 - **Nomes científicos** e equivalentes em **português**
-- **Imagens**, **áudios de pronúncia** e **notas culturais** quando disponíveis
+- **Imagens**, **áudios de pronúncia** e **notas culturais**, quando disponíveis
 
 Ele funciona tanto como uma ferramenta de **documentação linguística** quanto como um **recurso educativo comunitário**, promovendo o acesso ao conhecimento ecológico tradicional.
 
@@ -38,8 +38,9 @@ Ele funciona tanto como uma ferramenta de **documentação linguística** quanto
 
 ---
 
-## 📦 Estrutura
+## 📦 Estrutura do Projeto
 
+```text
 /fauna
 │
 ├── static/
@@ -50,12 +51,10 @@ Ele funciona tanto como uma ferramenta de **documentação linguística** quanto
 ├── templates/
 │   └── index.html
 │
-├── fauna_data.txt  ← Structured fauna data file
-├── app.py          ← Flask backend
+├── fauna_data.txt      ← Arquivo estruturado com os dados da fauna
+├── app.py              ← Backend em Flask
 ├── README.md
 └── requirements.txt
-
----
 
 ## 🚧 Planos Futuros
 
